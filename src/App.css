@@ -1,0 +1,9 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.canvas-container {
+  width: 110vh;
+  height: 100vh;
+}
